@@ -16,7 +16,7 @@ Exporta os dados dos produtos em uma planilha.
 
 ## Importando produtos
 
-Importa um arquivo de planilha dos produtos no formato csv para preecher o banco de dados
+Importa um arquivo de planilha dos produtos no formato csv para preencher o banco de dados
 
 ![importar](https://github.com/rodriguesrenato61/sistema-planilhas/blob/master/img/importar.png)
 
