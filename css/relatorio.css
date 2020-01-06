@@ -1,0 +1,16 @@
+
+
+
+#relatorio_search{
+    margin-top: 50px;
+}
+
+#div_tabela{
+    margin-top: 25px;
+    overflow-x: auto;
+    height: 390px;
+}
+
+#filtrar{
+    margin-top: -10px;
+}
