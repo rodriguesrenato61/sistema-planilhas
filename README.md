@@ -1,6 +1,6 @@
 # Importando e exportando planilhas
 
-Essa aplicação feita com Php, MySQL, HTML, CSS e Javascript faz importação e exportação de dados com planilhas. Ela é capaz de importar os dados de uma planilha para o banco fazendo as devidas verificações para não inserir um dado repetido ou inválido, além disso é capaz de exportar os dados do banco para uma planilha.
+Essa aplicação feita com Php, MySQL, HTML, CSS e Javascript faz importação e exportação de dados com planilhas. Ela é capaz de importar os dados de uma planilha para o banco fazendo as devidas verificações para não inserir um dado repetido ou inválido, além disso é capaz de exportar os dados do banco para uma planilha. Para utilizá-la importe o banco de dados comercio.sql para seu SGBD e faça as configurações de conexão com o banco no método construtor da classe Database.
 
 ## Exibindo dados dos produtos
 
