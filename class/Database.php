@@ -12,7 +12,7 @@
 			$host = "localhost";//host do banco
 			$dbname = "comercio";//nome do banco
 			$user = "root";//usuário do banco
-			$password = "d3s1p6g6";//senha do banco
+			$password = "";//senha do banco
 			
 			try{
 			
